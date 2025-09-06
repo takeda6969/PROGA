@@ -27,6 +27,7 @@ namespace PROGA
             decimal kNumber = 3.4M;
             object lNumber = 3.4;
             var gNumber = 'f';
+            int nummmber = 111;
             
         }
     }
